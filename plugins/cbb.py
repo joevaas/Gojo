@@ -14,6 +14,7 @@ async def cb_handler(client: Bot, query: CallbackQuery):
         await query.message.edit_text(
             text = f"""<b>╭───────────⍟
 ├➽ Dᴇᴠᴇʟᴏᴩᴇʀ : <a href='tg://user?id={6693549185}'>Mᴏᴏɴ</a>
+├➽ Cʀᴇᴀᴛᴇʀ : <a href=https://t.me/Mr_Solo_Viber>Oғғʟɪɴᴇ Bᴏʏ</a>
 ├➽ Lɪʙʀᴀʀy : <a href=https://github.com/pyrogram>Pʏʀᴏɢʀᴀᴍ</a>
 ├➽ Lᴀɴɢᴜᴀɢᴇ : <a href=https://www.python.org>Pʏᴛʜᴏɴ 3</a>
 ├➽ Sᴏᴜʀᴄᴇ Cᴏᴅᴇ : <a href=https://t.me/in_Tamil_Anime>Tᴇᴀᴍ 59 ( Iɴᴅᴇx ) 🔰</a>
